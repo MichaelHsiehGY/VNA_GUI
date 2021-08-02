@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfBand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Band>
+    <Type>ON</Type>
+    <StartStimulus>3000000000</StartStimulus>
+    <EndStimulus>4000000000</EndStimulus>
+    <MaxRipple>12</MaxRipple>
+  </Band>
+</ArrayOfBand>

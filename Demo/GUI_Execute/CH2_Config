@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<CHConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ChannelIndex>2</ChannelIndex>
+  <LayoutType>X4_1</LayoutType>
+  <StartFreq>3000000000</StartFreq>
+  <StopFreq>8500000000</StopFreq>
+  <CenterFreq>5750000000</CenterFreq>
+  <FreqSpan>5500000000</FreqSpan>
+  <TraceCount>4</TraceCount>
+  <SweepPoints>601</SweepPoints>
+  <AverageState>false</AverageState>
+  <AverageFactor>1</AverageFactor>
+  <SmoothingState>false</SmoothingState>
+  <SmoothingAperture>1.5</SmoothingAperture>
+  <IFBW>100000</IFBW>
+  <SweepMode>Continuous</SweepMode>
+  <SweepStatus>Hold</SweepStatus>
+  <MeasurementList>
+    <string>S11 LogM</string>
+    <string>S12 LogM</string>
+    <string>S21 LogM</string>
+    <string>S22 LogM</string>
+  </MeasurementList>
+  <IsMarkerCouple>false</IsMarkerCouple>
+  <IsMarkerTableAlign>true</IsMarkerTableAlign>
+  <IsMarkerShowFreq>true</IsMarkerShowFreq>
+  <TargetSearchValue>0</TargetSearchValue>
+  <MarkerSearchType>Max</MarkerSearchType>
+  <Cal_1Port_SelectPort>1*</Cal_1Port_SelectPort>
+  <CalType>4</CalType>
+  <CalMethod>1</CalMethod>
+  <CalLineType>0</CalLineType>
+</CHConfig>

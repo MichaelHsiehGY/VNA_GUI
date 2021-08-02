@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Channel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Number>1</Number>
+  <StartFreq>1000</StartFreq>
+  <StopFreq>800000000</StopFreq>
+  <SweepPoints>1601</SweepPoints>
+  <IFBW>30</IFBW>
+  <Averaging>1</Averaging>
+  <Traces>
+    <Trace>
+      <Response>S22</Response>
+      <TraceFormat>SWR</TraceFormat>
+      <Markers />
+    </Trace>
+    <Trace>
+      <Response>S22</Response>
+      <TraceFormat>SWR</TraceFormat>
+      <Markers />
+    </Trace>
+    <Trace>
+      <Response>S22</Response>
+      <TraceFormat>SWR</TraceFormat>
+      <Markers />
+    </Trace>
+    <Trace>
+      <Response>S22</Response>
+      <TraceFormat>SWR</TraceFormat>
+      <Markers />
+    </Trace>
+  </Traces>
+  <Segments />
+</Channel>

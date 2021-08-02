@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ResourceName>TCPIP::192.168.31.225::SOCKET</ResourceName>
+  <ChannelLayoutType>X1_1</ChannelLayoutType>
+  <RippleBandsFilePath>D:\Work\project\EBO E5071 Face</RippleBandsFilePath>
+  <LaestLoadedRippleBandsFile>D:\Work\project\EBO E5071 Face\ripple test bands.ripls</LaestLoadedRippleBandsFile>
+  <CalKitFilePath />
+  <LaestLoadedCalKitFile />
+  <DelayTime>300</DelayTime>
+  <IsSNControlEnabled>false</IsSNControlEnabled>
+  <IsAllowManualInput_SN>false</IsAllowManualInput_SN>
+  <CharacterCaseType_SN>Normal</CharacterCaseType_SN>
+  <IsShowTestItems>false</IsShowTestItems>
+  <IsShowEventLog>false</IsShowEventLog>
+  <IsShowInfoBorad>false</IsShowInfoBorad>
+  <IsShowStatusBar>false</IsShowStatusBar>
+  <KeyString />
+  <IsAdministrator>false</IsAdministrator>
+  <ProjectName>iProject</ProjectName>
+  <LastLoginUser />
+  <LastLoadTestPlanPath />
+  <LastLoadTestPlan />
+</Config>

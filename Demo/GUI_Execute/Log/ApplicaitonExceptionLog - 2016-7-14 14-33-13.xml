@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Exception>
+  <Log>System.ApplicationException: Connect Error:外部组件发生异常。
+   在 VNARemote.Remote.Connect() 位置 D:\Work\project\EBO E5071 Face\VectorStarExpand\VectorStarExpand\Remote\Remote.cs:行号 40
+   在 VNARemote.Remote.SetChannelCount(Int32 ChannelCount) 位置 D:\Work\project\EBO E5071 Face\VectorStarExpand\VectorStarExpand\Remote\Remote.cs:行号 171
+   在 VectorStarExpand.VSEMainForm.InitializeInstrument() 位置 D:\Work\project\EBO E5071 Face\VectorStarExpand\VectorStarExpand\VectorStarExpand\Form1.cs:行号 1235
+   在 VectorStarExpand.VSEMainForm.AllocateChannels() 位置 D:\Work\project\EBO E5071 Face\VectorStarExpand\VectorStarExpand\VectorStarExpand\Form1.cs:行号 1850</Log>
+</Exception>

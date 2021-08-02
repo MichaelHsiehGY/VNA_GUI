@@ -1,0 +1,1477 @@
+<Chart Palette="None" IsSoftShadows="False" BackColor="Black" Size="1204, 634" BorderlineColor="Black" BorderlineWidth="0" BorderlineDashStyle="Solid">
+  <Series>
+    <Series Name="Tr1" Legend="Tr1" XValueType="Double" YValueType="Double" ChartType="Line" ChartArea="ChartArea1" Color="Red" LabelForeColor="Red" LegendText="S11 SWR">
+      <Points>
+        <DataPoint XValue="1000000000" YValues="963.623596191406" />
+        <DataPoint XValue="1025000000" YValues="940.244689941406" />
+        <DataPoint XValue="1050000000" YValues="1000.62481689453" />
+        <DataPoint XValue="1075000000" YValues="793.488586425781" />
+        <DataPoint XValue="1100000000" YValues="915.111938476563" />
+        <DataPoint XValue="1125000000" YValues="886.237426757813" />
+        <DataPoint XValue="1150000000" YValues="1015.21588134766" />
+        <DataPoint XValue="1175000000" YValues="948.635803222656" />
+        <DataPoint XValue="1200000000" YValues="1162.42822265625" />
+        <DataPoint XValue="1225000000" YValues="914.012756347656" />
+        <DataPoint XValue="1250000000" YValues="866.129211425781" />
+        <DataPoint XValue="1275000000" YValues="652.381958007813" />
+        <DataPoint XValue="1300000000" YValues="678.8037109375" />
+        <DataPoint XValue="1325000000" YValues="893.331726074219" />
+        <DataPoint XValue="1350000000" YValues="872.813354492188" />
+        <DataPoint XValue="1375000000" YValues="645.595581054688" />
+        <DataPoint XValue="1400000000" YValues="682.988647460938" />
+        <DataPoint XValue="1425000000" YValues="737.271301269531" />
+        <DataPoint XValue="1450000000" YValues="624.665344238281" />
+        <DataPoint XValue="1475000000" YValues="729.778625488281" />
+        <DataPoint XValue="1500000000" YValues="604.446166992188" />
+        <DataPoint XValue="1525000000" YValues="605.102355957031" />
+        <DataPoint XValue="1550000000" YValues="799.077087402344" />
+        <DataPoint XValue="1575000000" YValues="636.807800292969" />
+        <DataPoint XValue="1600000000" YValues="618.405456542969" />
+        <DataPoint XValue="1625000000" YValues="696.597351074219" />
+        <DataPoint XValue="1650000000" YValues="474.719970703125" />
+        <DataPoint XValue="1675000000" YValues="680.640441894531" />
+        <DataPoint XValue="1700000000" YValues="612.617248535156" />
+        <DataPoint XValue="1725000000" YValues="586.303894042969" />
+        <DataPoint XValue="1750000000" YValues="554.481750488281" />
+        <DataPoint XValue="1775000000" YValues="565.663818359375" />
+        <DataPoint XValue="1800000000" YValues="552.996032714844" />
+        <DataPoint XValue="1825000000" YValues="701.195922851563" />
+        <DataPoint XValue="1850000000" YValues="628.161315917969" />
+        <DataPoint XValue="1875000000" YValues="508.821807861328" />
+        <DataPoint XValue="1900000000" YValues="554.325500488281" />
+        <DataPoint XValue="1925000000" YValues="560.890808105469" />
+        <DataPoint XValue="1950000000" YValues="585.790344238281" />
+        <DataPoint XValue="1975000000" YValues="540.926025390625" />
+        <DataPoint XValue="2000000000" YValues="439.786499023438" />
+        <DataPoint XValue="2025000000" YValues="431.943664550781" />
+        <DataPoint XValue="2050000000" YValues="507.508361816406" />
+        <DataPoint XValue="2075000000" YValues="557.272888183594" />
+        <DataPoint XValue="2100000000" YValues="459.963195800781" />
+        <DataPoint XValue="2125000000" YValues="461.941070556641" />
+        <DataPoint XValue="2150000000" YValues="373.028076171875" />
+        <DataPoint XValue="2175000000" YValues="391.890625" />
+        <DataPoint XValue="2200000000" YValues="447.900726318359" />
+        <DataPoint XValue="2225000000" YValues="560.06396484375" />
+        <DataPoint XValue="2250000000" YValues="427.876403808594" />
+        <DataPoint XValue="2275000000" YValues="456.799743652344" />
+        <DataPoint XValue="2300000000" YValues="420.978088378906" />
+        <DataPoint XValue="2325000000" YValues="395.835571289063" />
+        <DataPoint XValue="2350000000" YValues="436.453491210938" />
+        <DataPoint XValue="2375000000" YValues="436.755950927734" />
+        <DataPoint XValue="2400000000" YValues="357.698303222656" />
+        <DataPoint XValue="2425000000" YValues="375.787475585938" />
+        <DataPoint XValue="2450000000" YValues="403.440826416016" />
+        <DataPoint XValue="2475000000" YValues="349.280639648438" />
+        <DataPoint XValue="2500000000" YValues="380.144439697266" />
+        <DataPoint XValue="2525000000" YValues="349.767639160156" />
+        <DataPoint XValue="2550000000" YValues="338.1220703125" />
+        <DataPoint XValue="2575000000" YValues="444.911987304688" />
+        <DataPoint XValue="2600000000" YValues="339.467468261719" />
+        <DataPoint XValue="2625000000" YValues="306.494659423828" />
+        <DataPoint XValue="2650000000" YValues="337.236694335938" />
+        <DataPoint XValue="2675000000" YValues="374.157165527344" />
+        <DataPoint XValue="2700000000" YValues="360.134307861328" />
+        <DataPoint XValue="2725000000" YValues="299.231140136719" />
+        <DataPoint XValue="2750000000" YValues="332.145660400391" />
+        <DataPoint XValue="2775000000" YValues="292.981262207031" />
+        <DataPoint XValue="2800000000" YValues="335.102264404297" />
+        <DataPoint XValue="2825000000" YValues="306.359466552734" />
+        <DataPoint XValue="2850000000" YValues="291.857421875" />
+        <DataPoint XValue="2875000000" YValues="297.659820556641" />
+        <DataPoint XValue="2900000000" YValues="297.713012695313" />
+        <DataPoint XValue="2925000000" YValues="298.887664794922" />
+        <DataPoint XValue="2950000000" YValues="323.932037353516" />
+        <DataPoint XValue="2975000000" YValues="295.899841308594" />
+        <DataPoint XValue="3000000000" YValues="275.682830810547" />
+        <DataPoint XValue="3025000000" YValues="340.416687011719" />
+        <DataPoint XValue="3050000000" YValues="303.746612548828" />
+        <DataPoint XValue="3075000000" YValues="273.0009765625" />
+        <DataPoint XValue="3100000000" YValues="283.842376708984" />
+        <DataPoint XValue="3125000000" YValues="273.959686279297" />
+        <DataPoint XValue="3150000000" YValues="273.023345947266" />
+        <DataPoint XValue="3175000000" YValues="270.348663330078" />
+        <DataPoint XValue="3200000000" YValues="262.202972412109" />
+        <DataPoint XValue="3225000000" YValues="245.401275634766" />
+        <DataPoint XValue="3250000000" YValues="266.692352294922" />
+        <DataPoint XValue="3275000000" YValues="235.937881469727" />
+        <DataPoint XValue="3300000000" YValues="241.055297851563" />
+        <DataPoint XValue="3325000000" YValues="280.738006591797" />
+        <DataPoint XValue="3350000000" YValues="263.212280273438" />
+        <DataPoint XValue="3375000000" YValues="254.923843383789" />
+        <DataPoint XValue="3400000000" YValues="219.179214477539" />
+        <DataPoint XValue="3425000000" YValues="239.184051513672" />
+        <DataPoint XValue="3450000000" YValues="224.57145690918" />
+        <DataPoint XValue="3475000000" YValues="262.950408935547" />
+        <DataPoint XValue="3500000000" YValues="253.798629760742" />
+        <DataPoint XValue="3525000000" YValues="226.131958007813" />
+        <DataPoint XValue="3550000000" YValues="236.246124267578" />
+        <DataPoint XValue="3575000000" YValues="238.172256469727" />
+        <DataPoint XValue="3600000000" YValues="259.212738037109" />
+        <DataPoint XValue="3625000000" YValues="245.301788330078" />
+        <DataPoint XValue="3650000000" YValues="212.249816894531" />
+        <DataPoint XValue="3675000000" YValues="204.381652832031" />
+        <DataPoint XValue="3700000000" YValues="237.539749145508" />
+        <DataPoint XValue="3725000000" YValues="198.404724121094" />
+        <DataPoint XValue="3750000000" YValues="224.875152587891" />
+        <DataPoint XValue="3775000000" YValues="262.691131591797" />
+        <DataPoint XValue="3800000000" YValues="185.749664306641" />
+        <DataPoint XValue="3825000000" YValues="222.82453918457" />
+        <DataPoint XValue="3850000000" YValues="209.599716186523" />
+        <DataPoint XValue="3875000000" YValues="201.762969970703" />
+        <DataPoint XValue="3900000000" YValues="205.582885742188" />
+        <DataPoint XValue="3925000000" YValues="198.964431762695" />
+        <DataPoint XValue="3950000000" YValues="197.87760925293" />
+        <DataPoint XValue="3975000000" YValues="193.414764404297" />
+        <DataPoint XValue="4000000000" YValues="227.957656860352" />
+        <DataPoint XValue="4025000000" YValues="206.113342285156" />
+        <DataPoint XValue="4050000000" YValues="201.542663574219" />
+        <DataPoint XValue="4075000000" YValues="175.793960571289" />
+        <DataPoint XValue="4100000000" YValues="184.239303588867" />
+        <DataPoint XValue="4125000000" YValues="176.417465209961" />
+        <DataPoint XValue="4150000000" YValues="204.316299438477" />
+        <DataPoint XValue="4175000000" YValues="188.677001953125" />
+        <DataPoint XValue="4200000000" YValues="175.640396118164" />
+        <DataPoint XValue="4225000000" YValues="177.787246704102" />
+        <DataPoint XValue="4250000000" YValues="172.655609130859" />
+        <DataPoint XValue="4275000000" YValues="195.231628417969" />
+        <DataPoint XValue="4300000000" YValues="174.387481689453" />
+        <DataPoint XValue="4325000000" YValues="182.285446166992" />
+        <DataPoint XValue="4350000000" YValues="175.260879516602" />
+        <DataPoint XValue="4375000000" YValues="152.841079711914" />
+        <DataPoint XValue="4400000000" YValues="167.89616394043" />
+        <DataPoint XValue="4425000000" YValues="170.132339477539" />
+        <DataPoint XValue="4450000000" YValues="160.635665893555" />
+        <DataPoint XValue="4475000000" YValues="185.032150268555" />
+        <DataPoint XValue="4500000000" YValues="152.171829223633" />
+        <DataPoint XValue="4525000000" YValues="184.378479003906" />
+        <DataPoint XValue="4550000000" YValues="162.777618408203" />
+        <DataPoint XValue="4575000000" YValues="151.333877563477" />
+        <DataPoint XValue="4600000000" YValues="155.737091064453" />
+        <DataPoint XValue="4625000000" YValues="151.329727172852" />
+        <DataPoint XValue="4650000000" YValues="178.020935058594" />
+        <DataPoint XValue="4675000000" YValues="153.985107421875" />
+        <DataPoint XValue="4700000000" YValues="147.266250610352" />
+        <DataPoint XValue="4725000000" YValues="172.893203735352" />
+        <DataPoint XValue="4750000000" YValues="159.771377563477" />
+        <DataPoint XValue="4775000000" YValues="157.867630004883" />
+        <DataPoint XValue="4800000000" YValues="155.827926635742" />
+        <DataPoint XValue="4825000000" YValues="147.609024047852" />
+        <DataPoint XValue="4850000000" YValues="153.717132568359" />
+        <DataPoint XValue="4875000000" YValues="157.14582824707" />
+        <DataPoint XValue="4900000000" YValues="136.65412902832" />
+        <DataPoint XValue="4925000000" YValues="138.266418457031" />
+        <DataPoint XValue="4950000000" YValues="146.593215942383" />
+        <DataPoint XValue="4975000000" YValues="146.923751831055" />
+        <DataPoint XValue="5000000000" YValues="137.172790527344" />
+        <DataPoint XValue="5025000000" YValues="152.242477416992" />
+        <DataPoint XValue="5050000000" YValues="136.084991455078" />
+        <DataPoint XValue="5075000000" YValues="147.050369262695" />
+        <DataPoint XValue="5100000000" YValues="140.983062744141" />
+        <DataPoint XValue="5125000000" YValues="126.872688293457" />
+        <DataPoint XValue="5150000000" YValues="152.05305480957" />
+        <DataPoint XValue="5175000000" YValues="145.53678894043" />
+        <DataPoint XValue="5200000000" YValues="138.950088500977" />
+        <DataPoint XValue="5225000000" YValues="140.202743530273" />
+        <DataPoint XValue="5250000000" YValues="124.161071777344" />
+        <DataPoint XValue="5275000000" YValues="151.255081176758" />
+        <DataPoint XValue="5300000000" YValues="131.748992919922" />
+        <DataPoint XValue="5325000000" YValues="119.745002746582" />
+        <DataPoint XValue="5350000000" YValues="136.934234619141" />
+        <DataPoint XValue="5375000000" YValues="126.240371704102" />
+        <DataPoint XValue="5400000000" YValues="134.072463989258" />
+        <DataPoint XValue="5425000000" YValues="139.626358032227" />
+        <DataPoint XValue="5450000000" YValues="130.260177612305" />
+        <DataPoint XValue="5475000000" YValues="134.558120727539" />
+        <DataPoint XValue="5500000000" YValues="137.094879150391" />
+        <DataPoint XValue="5525000000" YValues="126.05103302002" />
+        <DataPoint XValue="5550000000" YValues="130.492156982422" />
+        <DataPoint XValue="5575000000" YValues="124.085021972656" />
+        <DataPoint XValue="5600000000" YValues="149.924468994141" />
+        <DataPoint XValue="5625000000" YValues="128.246887207031" />
+        <DataPoint XValue="5650000000" YValues="119.660766601563" />
+        <DataPoint XValue="5675000000" YValues="123.691772460938" />
+        <DataPoint XValue="5700000000" YValues="125.057281494141" />
+        <DataPoint XValue="5725000000" YValues="124.509857177734" />
+        <DataPoint XValue="5750000000" YValues="119.928634643555" />
+        <DataPoint XValue="5775000000" YValues="125.557456970215" />
+        <DataPoint XValue="5800000000" YValues="118.182601928711" />
+        <DataPoint XValue="5825000000" YValues="122.268524169922" />
+        <DataPoint XValue="5850000000" YValues="113.592208862305" />
+        <DataPoint XValue="5875000000" YValues="105.628631591797" />
+        <DataPoint XValue="5900000000" YValues="127.930046081543" />
+        <DataPoint XValue="5925000000" YValues="109.49454498291" />
+        <DataPoint XValue="5950000000" YValues="120.172317504883" />
+        <DataPoint XValue="5975000000" YValues="109.961524963379" />
+        <DataPoint XValue="6000000000" YValues="103.944175720215" />
+      </Points>
+    </Series>
+    <Series Name="Mr1" Legend="Tr1" XValueType="Double" YValueType="Double" ChartType="Point" ChartArea="ChartArea1" Color="Red" LabelForeColor="Red" MarkerStyle="Triangle" MarkerColor="Transparent" MarkerBorderColor="Red" IsVisibleInLegend="False" LabelBorderColor="Red" LabelBorderWidth="0">
+      <Points>
+        <DataPoint XValue="1200000000" YValues="1162.42822265625" LabelBorderWidth="1" LabelBorderColor="Red" MarkerSize="6" LegendText="Max" Label="1" LabelForeColor="Red" />
+        <DataPoint XValue="6000000000" YValues="103.944175720215" LabelBorderWidth="0" MarkerSize="6" LegendText="Min" Label="2" LabelForeColor="Red" />
+        <DataPoint XValue="1000000000" YValues="963.623596191406" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="963.623596191406" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="963.623596191406" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="963.623596191406" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="963.623596191406" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="963.623596191406" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="963.623596191406" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="963.623596191406" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="963.623596191406" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="963.623596191406" MarkerSize="0" LabelBorderWidth="0" Label="" />
+      </Points>
+      <SmartLabelStyle Enabled="False" />
+    </Series>
+    <Series Name="Tr2" Legend="Tr2" XValueType="Double" YValueType="Double" ChartType="Line" ChartArea="ChartArea2" Color="Yellow" LabelForeColor="Yellow" LegendText="S12 LogM">
+      <Points>
+        <DataPoint XValue="1000000000" YValues="-94.8146743774414" />
+        <DataPoint XValue="1025000000" YValues="-86.3813705444336" />
+        <DataPoint XValue="1050000000" YValues="-91.7619018554688" />
+        <DataPoint XValue="1075000000" YValues="-80.4807357788086" />
+        <DataPoint XValue="1100000000" YValues="-87.1175842285156" />
+        <DataPoint XValue="1125000000" YValues="-90.6427154541016" />
+        <DataPoint XValue="1150000000" YValues="-85.5120391845703" />
+        <DataPoint XValue="1175000000" YValues="-86.5543746948242" />
+        <DataPoint XValue="1200000000" YValues="-88.8674087524414" />
+        <DataPoint XValue="1225000000" YValues="-87.3856048583984" />
+        <DataPoint XValue="1250000000" YValues="-94.6047592163086" />
+        <DataPoint XValue="1275000000" YValues="-84.3604965209961" />
+        <DataPoint XValue="1300000000" YValues="-91.1496658325195" />
+        <DataPoint XValue="1325000000" YValues="-89.1959838867188" />
+        <DataPoint XValue="1350000000" YValues="-95.8318710327148" />
+        <DataPoint XValue="1375000000" YValues="-88.5133819580078" />
+        <DataPoint XValue="1400000000" YValues="-86.1215133666992" />
+        <DataPoint XValue="1425000000" YValues="-91.7172622680664" />
+        <DataPoint XValue="1450000000" YValues="-104.357192993164" />
+        <DataPoint XValue="1475000000" YValues="-89.7098236083984" />
+        <DataPoint XValue="1500000000" YValues="-86.2637252807617" />
+        <DataPoint XValue="1525000000" YValues="-95.5971832275391" />
+        <DataPoint XValue="1550000000" YValues="-90.4243087768555" />
+        <DataPoint XValue="1575000000" YValues="-92.4465103149414" />
+        <DataPoint XValue="1600000000" YValues="-86.2146072387695" />
+        <DataPoint XValue="1625000000" YValues="-95.218132019043" />
+        <DataPoint XValue="1650000000" YValues="-91.9993286132813" />
+        <DataPoint XValue="1675000000" YValues="-89.4389953613281" />
+        <DataPoint XValue="1700000000" YValues="-90.8779220581055" />
+        <DataPoint XValue="1725000000" YValues="-86.9661026000977" />
+        <DataPoint XValue="1750000000" YValues="-91.1802673339844" />
+        <DataPoint XValue="1775000000" YValues="-99.0435638427734" />
+        <DataPoint XValue="1800000000" YValues="-96.6288604736328" />
+        <DataPoint XValue="1825000000" YValues="-91.803581237793" />
+        <DataPoint XValue="1850000000" YValues="-99.9413909912109" />
+        <DataPoint XValue="1875000000" YValues="-86.1327209472656" />
+        <DataPoint XValue="1900000000" YValues="-89.0619964599609" />
+        <DataPoint XValue="1925000000" YValues="-91.0067138671875" />
+        <DataPoint XValue="1950000000" YValues="-89.0923919677734" />
+        <DataPoint XValue="1975000000" YValues="-86.9490051269531" />
+        <DataPoint XValue="2000000000" YValues="-90.0519638061523" />
+        <DataPoint XValue="2025000000" YValues="-87.4836273193359" />
+        <DataPoint XValue="2050000000" YValues="-85.4587860107422" />
+        <DataPoint XValue="2075000000" YValues="-88.4516067504883" />
+        <DataPoint XValue="2100000000" YValues="-85.7539291381836" />
+        <DataPoint XValue="2125000000" YValues="-85.2620697021484" />
+        <DataPoint XValue="2150000000" YValues="-89.375373840332" />
+        <DataPoint XValue="2175000000" YValues="-95.6346740722656" />
+        <DataPoint XValue="2200000000" YValues="-111.86466217041" />
+        <DataPoint XValue="2225000000" YValues="-96.9880294799805" />
+        <DataPoint XValue="2250000000" YValues="-110.588272094727" />
+        <DataPoint XValue="2275000000" YValues="-101.833557128906" />
+        <DataPoint XValue="2300000000" YValues="-90.8170776367188" />
+        <DataPoint XValue="2325000000" YValues="-90.4555130004883" />
+        <DataPoint XValue="2350000000" YValues="-90.4249420166016" />
+        <DataPoint XValue="2375000000" YValues="-91.7882537841797" />
+        <DataPoint XValue="2400000000" YValues="-87.0451812744141" />
+        <DataPoint XValue="2425000000" YValues="-99.1097946166992" />
+        <DataPoint XValue="2450000000" YValues="-89.0373992919922" />
+        <DataPoint XValue="2475000000" YValues="-85.2120056152344" />
+        <DataPoint XValue="2500000000" YValues="-92.6162261962891" />
+        <DataPoint XValue="2525000000" YValues="-103.75146484375" />
+        <DataPoint XValue="2550000000" YValues="-86.5111618041992" />
+        <DataPoint XValue="2575000000" YValues="-94.5450134277344" />
+        <DataPoint XValue="2600000000" YValues="-95.6036376953125" />
+        <DataPoint XValue="2625000000" YValues="-99.2572937011719" />
+        <DataPoint XValue="2650000000" YValues="-89.4130096435547" />
+        <DataPoint XValue="2675000000" YValues="-88.2979125976563" />
+        <DataPoint XValue="2700000000" YValues="-83.5337677001953" />
+        <DataPoint XValue="2725000000" YValues="-90.4750442504883" />
+        <DataPoint XValue="2750000000" YValues="-101.49528503418" />
+        <DataPoint XValue="2775000000" YValues="-92.5219039916992" />
+        <DataPoint XValue="2800000000" YValues="-104.581527709961" />
+        <DataPoint XValue="2825000000" YValues="-88.6736297607422" />
+        <DataPoint XValue="2850000000" YValues="-84.753173828125" />
+        <DataPoint XValue="2875000000" YValues="-90.3030319213867" />
+        <DataPoint XValue="2900000000" YValues="-88.3426284790039" />
+        <DataPoint XValue="2925000000" YValues="-93.1666641235352" />
+        <DataPoint XValue="2950000000" YValues="-100.573616027832" />
+        <DataPoint XValue="2975000000" YValues="-86.3816146850586" />
+        <DataPoint XValue="3000000000" YValues="-94.1737442016602" />
+        <DataPoint XValue="3025000000" YValues="-91.5851440429688" />
+        <DataPoint XValue="3050000000" YValues="-102.345077514648" />
+        <DataPoint XValue="3075000000" YValues="-84.0845642089844" />
+        <DataPoint XValue="3100000000" YValues="-90.6737518310547" />
+        <DataPoint XValue="3125000000" YValues="-89.3581771850586" />
+        <DataPoint XValue="3150000000" YValues="-93.0639495849609" />
+        <DataPoint XValue="3175000000" YValues="-95.6202239990234" />
+        <DataPoint XValue="3200000000" YValues="-89.1344833374023" />
+        <DataPoint XValue="3225000000" YValues="-89.4963912963867" />
+        <DataPoint XValue="3250000000" YValues="-93.2170867919922" />
+        <DataPoint XValue="3275000000" YValues="-88.7855453491211" />
+        <DataPoint XValue="3300000000" YValues="-88.6983871459961" />
+        <DataPoint XValue="3325000000" YValues="-87.029541015625" />
+        <DataPoint XValue="3350000000" YValues="-92.2662658691406" />
+        <DataPoint XValue="3375000000" YValues="-99.4866256713867" />
+        <DataPoint XValue="3400000000" YValues="-86.5596694946289" />
+        <DataPoint XValue="3425000000" YValues="-94.4536285400391" />
+        <DataPoint XValue="3450000000" YValues="-95.0126495361328" />
+        <DataPoint XValue="3475000000" YValues="-85.7591705322266" />
+        <DataPoint XValue="3500000000" YValues="-88.5493316650391" />
+        <DataPoint XValue="3525000000" YValues="-93.7216949462891" />
+        <DataPoint XValue="3550000000" YValues="-88.6991729736328" />
+        <DataPoint XValue="3575000000" YValues="-91.1841201782227" />
+        <DataPoint XValue="3600000000" YValues="-82.6407241821289" />
+        <DataPoint XValue="3625000000" YValues="-91.6319427490234" />
+        <DataPoint XValue="3650000000" YValues="-90.9852905273438" />
+        <DataPoint XValue="3675000000" YValues="-85.7041091918945" />
+        <DataPoint XValue="3700000000" YValues="-98.6778259277344" />
+        <DataPoint XValue="3725000000" YValues="-84.9141998291016" />
+        <DataPoint XValue="3750000000" YValues="-84.3570098876953" />
+        <DataPoint XValue="3775000000" YValues="-93.9018325805664" />
+        <DataPoint XValue="3800000000" YValues="-91.6795425415039" />
+        <DataPoint XValue="3825000000" YValues="-84.0969390869141" />
+        <DataPoint XValue="3850000000" YValues="-89.3656616210938" />
+        <DataPoint XValue="3875000000" YValues="-90.4463653564453" />
+        <DataPoint XValue="3900000000" YValues="-94.9181289672852" />
+        <DataPoint XValue="3925000000" YValues="-100.529922485352" />
+        <DataPoint XValue="3950000000" YValues="-85.6905364990234" />
+        <DataPoint XValue="3975000000" YValues="-87.3453521728516" />
+        <DataPoint XValue="4000000000" YValues="-81.2102508544922" />
+        <DataPoint XValue="4025000000" YValues="-86.2074356079102" />
+        <DataPoint XValue="4050000000" YValues="-86.7785034179688" />
+        <DataPoint XValue="4075000000" YValues="-88.6763153076172" />
+        <DataPoint XValue="4100000000" YValues="-82.1941833496094" />
+        <DataPoint XValue="4125000000" YValues="-80.0735626220703" />
+        <DataPoint XValue="4150000000" YValues="-87.6054000854492" />
+        <DataPoint XValue="4175000000" YValues="-84.1313552856445" />
+        <DataPoint XValue="4200000000" YValues="-84.378547668457" />
+        <DataPoint XValue="4225000000" YValues="-78.9228286743164" />
+        <DataPoint XValue="4250000000" YValues="-83.7776260375977" />
+        <DataPoint XValue="4275000000" YValues="-80.4858779907227" />
+        <DataPoint XValue="4300000000" YValues="-78.4066848754883" />
+        <DataPoint XValue="4325000000" YValues="-84.3821029663086" />
+        <DataPoint XValue="4350000000" YValues="-93.5007400512695" />
+        <DataPoint XValue="4375000000" YValues="-94.101188659668" />
+        <DataPoint XValue="4400000000" YValues="-103.096633911133" />
+        <DataPoint XValue="4425000000" YValues="-84.8920288085938" />
+        <DataPoint XValue="4450000000" YValues="-89.5971603393555" />
+        <DataPoint XValue="4475000000" YValues="-80.4049606323242" />
+        <DataPoint XValue="4500000000" YValues="-85.5255432128906" />
+        <DataPoint XValue="4525000000" YValues="-86.7942352294922" />
+        <DataPoint XValue="4550000000" YValues="-86.5315170288086" />
+        <DataPoint XValue="4575000000" YValues="-88.6831588745117" />
+        <DataPoint XValue="4600000000" YValues="-87.0147247314453" />
+        <DataPoint XValue="4625000000" YValues="-91.6770858764648" />
+        <DataPoint XValue="4650000000" YValues="-94.6623382568359" />
+        <DataPoint XValue="4675000000" YValues="-86.7995147705078" />
+        <DataPoint XValue="4700000000" YValues="-88.7925872802734" />
+        <DataPoint XValue="4725000000" YValues="-84.9516143798828" />
+        <DataPoint XValue="4750000000" YValues="-85.6569976806641" />
+        <DataPoint XValue="4775000000" YValues="-83.1922149658203" />
+        <DataPoint XValue="4800000000" YValues="-96.3246536254883" />
+        <DataPoint XValue="4825000000" YValues="-88.7042236328125" />
+        <DataPoint XValue="4850000000" YValues="-93.3215637207031" />
+        <DataPoint XValue="4875000000" YValues="-86.7333068847656" />
+        <DataPoint XValue="4900000000" YValues="-90.7984237670898" />
+        <DataPoint XValue="4925000000" YValues="-88.0974502563477" />
+        <DataPoint XValue="4950000000" YValues="-95.0929260253906" />
+        <DataPoint XValue="4975000000" YValues="-91.6706848144531" />
+        <DataPoint XValue="5000000000" YValues="-94.4363327026367" />
+        <DataPoint XValue="5025000000" YValues="-105.423950195313" />
+        <DataPoint XValue="5050000000" YValues="-90.5136260986328" />
+        <DataPoint XValue="5075000000" YValues="-90.8325653076172" />
+        <DataPoint XValue="5100000000" YValues="-98.5768966674805" />
+        <DataPoint XValue="5125000000" YValues="-85.3428344726563" />
+        <DataPoint XValue="5150000000" YValues="-87.0457611083984" />
+        <DataPoint XValue="5175000000" YValues="-89.8845748901367" />
+        <DataPoint XValue="5200000000" YValues="-83.5879592895508" />
+        <DataPoint XValue="5225000000" YValues="-90.2970733642578" />
+        <DataPoint XValue="5250000000" YValues="-89.8601684570313" />
+        <DataPoint XValue="5275000000" YValues="-79.6569519042969" />
+        <DataPoint XValue="5300000000" YValues="-98.0020980834961" />
+        <DataPoint XValue="5325000000" YValues="-95.1516342163086" />
+        <DataPoint XValue="5350000000" YValues="-86.4239959716797" />
+        <DataPoint XValue="5375000000" YValues="-93.5253829956055" />
+        <DataPoint XValue="5400000000" YValues="-93.4191436767578" />
+        <DataPoint XValue="5425000000" YValues="-87.3768920898438" />
+        <DataPoint XValue="5450000000" YValues="-99.0033645629883" />
+        <DataPoint XValue="5475000000" YValues="-89.2595596313477" />
+        <DataPoint XValue="5500000000" YValues="-82.8160552978516" />
+        <DataPoint XValue="5525000000" YValues="-79.5774078369141" />
+        <DataPoint XValue="5550000000" YValues="-91.7722473144531" />
+        <DataPoint XValue="5575000000" YValues="-83.5557861328125" />
+        <DataPoint XValue="5600000000" YValues="-89.4109268188477" />
+        <DataPoint XValue="5625000000" YValues="-88.4075622558594" />
+        <DataPoint XValue="5650000000" YValues="-85.8426284790039" />
+        <DataPoint XValue="5675000000" YValues="-91.6912002563477" />
+        <DataPoint XValue="5700000000" YValues="-88.5919494628906" />
+        <DataPoint XValue="5725000000" YValues="-86.4962692260742" />
+        <DataPoint XValue="5750000000" YValues="-88.8413848876953" />
+        <DataPoint XValue="5775000000" YValues="-83.8179016113281" />
+        <DataPoint XValue="5800000000" YValues="-91.7091293334961" />
+        <DataPoint XValue="5825000000" YValues="-85.5568389892578" />
+        <DataPoint XValue="5850000000" YValues="-94.1887664794922" />
+        <DataPoint XValue="5875000000" YValues="-89.8896942138672" />
+        <DataPoint XValue="5900000000" YValues="-86.2627258300781" />
+        <DataPoint XValue="5925000000" YValues="-101.05061340332" />
+        <DataPoint XValue="5950000000" YValues="-80.7311172485352" />
+        <DataPoint XValue="5975000000" YValues="-83.5417633056641" />
+        <DataPoint XValue="6000000000" YValues="-86.0473937988281" />
+      </Points>
+    </Series>
+    <Series Name="Mr2" Legend="Tr1" XValueType="Double" YValueType="Double" ChartType="Point" ChartArea="ChartArea2" Color="Yellow" LabelForeColor="Yellow" MarkerStyle="Triangle" MarkerColor="Transparent" MarkerBorderColor="Yellow" IsVisibleInLegend="False" LabelBorderColor="Yellow" LabelBorderWidth="0">
+      <Points>
+        <DataPoint XValue="4475000000" YValues="-80.4049606323242" MarkerSize="6" LabelBorderWidth="1" LabelForeColor="Yellow" LegendText="Max" Label="1" />
+        <DataPoint XValue="1650000000" YValues="-91.9993286132813" LabelBorderWidth="0" MarkerSize="6" LegendText="Min" Label="2" LabelForeColor="Yellow" />
+        <DataPoint XValue="1000000000" YValues="-94.8146743774414" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-94.8146743774414" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-94.8146743774414" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-94.8146743774414" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-94.8146743774414" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-94.8146743774414" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-94.8146743774414" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-94.8146743774414" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-94.8146743774414" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-94.8146743774414" MarkerSize="0" LabelBorderWidth="0" Label="" />
+      </Points>
+      <SmartLabelStyle Enabled="False" />
+    </Series>
+    <Series Name="Tr3" Legend="Tr3" XValueType="Double" YValueType="Double" ChartType="Line" ChartArea="ChartArea3" Color="Blue" LabelForeColor="Blue" LegendText="S21 LogM">
+      <Points>
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" />
+        <DataPoint XValue="1025000000" YValues="-88.3743591308594" />
+        <DataPoint XValue="1050000000" YValues="-86.0568618774414" />
+        <DataPoint XValue="1075000000" YValues="-87.5277633666992" />
+        <DataPoint XValue="1100000000" YValues="-91.8815612792969" />
+        <DataPoint XValue="1125000000" YValues="-87.4392776489258" />
+        <DataPoint XValue="1150000000" YValues="-90.0186920166016" />
+        <DataPoint XValue="1175000000" YValues="-92.5791015625" />
+        <DataPoint XValue="1200000000" YValues="-88.8600921630859" />
+        <DataPoint XValue="1225000000" YValues="-90.3972320556641" />
+        <DataPoint XValue="1250000000" YValues="-90.4527282714844" />
+        <DataPoint XValue="1275000000" YValues="-95.9686584472656" />
+        <DataPoint XValue="1300000000" YValues="-93.2690353393555" />
+        <DataPoint XValue="1325000000" YValues="-93.197021484375" />
+        <DataPoint XValue="1350000000" YValues="-93.9862442016602" />
+        <DataPoint XValue="1375000000" YValues="-101.188873291016" />
+        <DataPoint XValue="1400000000" YValues="-88.8039321899414" />
+        <DataPoint XValue="1425000000" YValues="-93.3562927246094" />
+        <DataPoint XValue="1450000000" YValues="-91.3802032470703" />
+        <DataPoint XValue="1475000000" YValues="-88.10546875" />
+        <DataPoint XValue="1500000000" YValues="-92.7239990234375" />
+        <DataPoint XValue="1525000000" YValues="-93.3079528808594" />
+        <DataPoint XValue="1550000000" YValues="-95.8078155517578" />
+        <DataPoint XValue="1575000000" YValues="-86.9112701416016" />
+        <DataPoint XValue="1600000000" YValues="-86.1879119873047" />
+        <DataPoint XValue="1625000000" YValues="-88.4120864868164" />
+        <DataPoint XValue="1650000000" YValues="-90.5685119628906" />
+        <DataPoint XValue="1675000000" YValues="-97.954216003418" />
+        <DataPoint XValue="1700000000" YValues="-97.5861740112305" />
+        <DataPoint XValue="1725000000" YValues="-93.4142150878906" />
+        <DataPoint XValue="1750000000" YValues="-86.8978881835938" />
+        <DataPoint XValue="1775000000" YValues="-90.8447952270508" />
+        <DataPoint XValue="1800000000" YValues="-91.5937957763672" />
+        <DataPoint XValue="1825000000" YValues="-88.5926132202148" />
+        <DataPoint XValue="1850000000" YValues="-90.4081802368164" />
+        <DataPoint XValue="1875000000" YValues="-87.7250213623047" />
+        <DataPoint XValue="1900000000" YValues="-88.4292297363281" />
+        <DataPoint XValue="1925000000" YValues="-94.8853607177734" />
+        <DataPoint XValue="1950000000" YValues="-94.1113662719727" />
+        <DataPoint XValue="1975000000" YValues="-85.0224609375" />
+        <DataPoint XValue="2000000000" YValues="-95.7101898193359" />
+        <DataPoint XValue="2025000000" YValues="-100.216102600098" />
+        <DataPoint XValue="2050000000" YValues="-95.730598449707" />
+        <DataPoint XValue="2075000000" YValues="-90.7362442016602" />
+        <DataPoint XValue="2100000000" YValues="-89.8241500854492" />
+        <DataPoint XValue="2125000000" YValues="-89.6530990600586" />
+        <DataPoint XValue="2150000000" YValues="-83.2251739501953" />
+        <DataPoint XValue="2175000000" YValues="-87.9401473999023" />
+        <DataPoint XValue="2200000000" YValues="-92.5560913085938" />
+        <DataPoint XValue="2225000000" YValues="-92.2401351928711" />
+        <DataPoint XValue="2250000000" YValues="-91.4253616333008" />
+        <DataPoint XValue="2275000000" YValues="-90.9971618652344" />
+        <DataPoint XValue="2300000000" YValues="-94.4239044189453" />
+        <DataPoint XValue="2325000000" YValues="-92.7872085571289" />
+        <DataPoint XValue="2350000000" YValues="-95.3085632324219" />
+        <DataPoint XValue="2375000000" YValues="-86.8237686157227" />
+        <DataPoint XValue="2400000000" YValues="-89.8373260498047" />
+        <DataPoint XValue="2425000000" YValues="-89.5375366210938" />
+        <DataPoint XValue="2450000000" YValues="-109.151832580566" />
+        <DataPoint XValue="2475000000" YValues="-90.1486511230469" />
+        <DataPoint XValue="2500000000" YValues="-95.7532196044922" />
+        <DataPoint XValue="2525000000" YValues="-83.4713439941406" />
+        <DataPoint XValue="2550000000" YValues="-84.8630218505859" />
+        <DataPoint XValue="2575000000" YValues="-99.010986328125" />
+        <DataPoint XValue="2600000000" YValues="-100.318725585938" />
+        <DataPoint XValue="2625000000" YValues="-85.6479949951172" />
+        <DataPoint XValue="2650000000" YValues="-86.5730895996094" />
+        <DataPoint XValue="2675000000" YValues="-88.2830657958984" />
+        <DataPoint XValue="2700000000" YValues="-84.4290237426758" />
+        <DataPoint XValue="2725000000" YValues="-84.2035064697266" />
+        <DataPoint XValue="2750000000" YValues="-91.0699615478516" />
+        <DataPoint XValue="2775000000" YValues="-87.1166305541992" />
+        <DataPoint XValue="2800000000" YValues="-83.9625701904297" />
+        <DataPoint XValue="2825000000" YValues="-81.9335098266602" />
+        <DataPoint XValue="2850000000" YValues="-86.6053924560547" />
+        <DataPoint XValue="2875000000" YValues="-87.6706390380859" />
+        <DataPoint XValue="2900000000" YValues="-90.6096801757813" />
+        <DataPoint XValue="2925000000" YValues="-86.5059585571289" />
+        <DataPoint XValue="2950000000" YValues="-87.5674057006836" />
+        <DataPoint XValue="2975000000" YValues="-88.1809616088867" />
+        <DataPoint XValue="3000000000" YValues="-88.3277130126953" />
+        <DataPoint XValue="3025000000" YValues="-90.2462844848633" />
+        <DataPoint XValue="3050000000" YValues="-84.3320159912109" />
+        <DataPoint XValue="3075000000" YValues="-87.7793807983398" />
+        <DataPoint XValue="3100000000" YValues="-84.1825103759766" />
+        <DataPoint XValue="3125000000" YValues="-79.8498687744141" />
+        <DataPoint XValue="3150000000" YValues="-92.7265014648438" />
+        <DataPoint XValue="3175000000" YValues="-81.8613510131836" />
+        <DataPoint XValue="3200000000" YValues="-94.7257308959961" />
+        <DataPoint XValue="3225000000" YValues="-85.4942398071289" />
+        <DataPoint XValue="3250000000" YValues="-87.6413116455078" />
+        <DataPoint XValue="3275000000" YValues="-91.0350875854492" />
+        <DataPoint XValue="3300000000" YValues="-84.6152038574219" />
+        <DataPoint XValue="3325000000" YValues="-88.2327423095703" />
+        <DataPoint XValue="3350000000" YValues="-94.5768661499023" />
+        <DataPoint XValue="3375000000" YValues="-86.3677673339844" />
+        <DataPoint XValue="3400000000" YValues="-93.4910583496094" />
+        <DataPoint XValue="3425000000" YValues="-89.4323654174805" />
+        <DataPoint XValue="3450000000" YValues="-84.9977722167969" />
+        <DataPoint XValue="3475000000" YValues="-90.806510925293" />
+        <DataPoint XValue="3500000000" YValues="-91.0531234741211" />
+        <DataPoint XValue="3525000000" YValues="-88.0225524902344" />
+        <DataPoint XValue="3550000000" YValues="-91.0104217529297" />
+        <DataPoint XValue="3575000000" YValues="-87.2228088378906" />
+        <DataPoint XValue="3600000000" YValues="-90.5389556884766" />
+        <DataPoint XValue="3625000000" YValues="-92.4078979492188" />
+        <DataPoint XValue="3650000000" YValues="-84.3683242797852" />
+        <DataPoint XValue="3675000000" YValues="-88.8393249511719" />
+        <DataPoint XValue="3700000000" YValues="-95.5166931152344" />
+        <DataPoint XValue="3725000000" YValues="-83.2959365844727" />
+        <DataPoint XValue="3750000000" YValues="-102.208374023438" />
+        <DataPoint XValue="3775000000" YValues="-95.6980819702148" />
+        <DataPoint XValue="3800000000" YValues="-97.4598770141602" />
+        <DataPoint XValue="3825000000" YValues="-93.4337615966797" />
+        <DataPoint XValue="3850000000" YValues="-79.9008712768555" />
+        <DataPoint XValue="3875000000" YValues="-103.432418823242" />
+        <DataPoint XValue="3900000000" YValues="-84.1081390380859" />
+        <DataPoint XValue="3925000000" YValues="-88.2282257080078" />
+        <DataPoint XValue="3950000000" YValues="-84.5373382568359" />
+        <DataPoint XValue="3975000000" YValues="-81.9646606445313" />
+        <DataPoint XValue="4000000000" YValues="-86.9673233032227" />
+        <DataPoint XValue="4025000000" YValues="-81.023063659668" />
+        <DataPoint XValue="4050000000" YValues="-83.5235290527344" />
+        <DataPoint XValue="4075000000" YValues="-92.5966949462891" />
+        <DataPoint XValue="4100000000" YValues="-86.1134185791016" />
+        <DataPoint XValue="4125000000" YValues="-85.3623352050781" />
+        <DataPoint XValue="4150000000" YValues="-84.1290664672852" />
+        <DataPoint XValue="4175000000" YValues="-78.4148330688477" />
+        <DataPoint XValue="4200000000" YValues="-89.0271453857422" />
+        <DataPoint XValue="4225000000" YValues="-93.1107177734375" />
+        <DataPoint XValue="4250000000" YValues="-93.5525894165039" />
+        <DataPoint XValue="4275000000" YValues="-89.2521591186523" />
+        <DataPoint XValue="4300000000" YValues="-88.4330749511719" />
+        <DataPoint XValue="4325000000" YValues="-91.9627227783203" />
+        <DataPoint XValue="4350000000" YValues="-93.5035400390625" />
+        <DataPoint XValue="4375000000" YValues="-83.9661102294922" />
+        <DataPoint XValue="4400000000" YValues="-81.3757019042969" />
+        <DataPoint XValue="4425000000" YValues="-79.9265899658203" />
+        <DataPoint XValue="4450000000" YValues="-88.4265441894531" />
+        <DataPoint XValue="4475000000" YValues="-83.5471649169922" />
+        <DataPoint XValue="4500000000" YValues="-85.1835632324219" />
+        <DataPoint XValue="4525000000" YValues="-86.1072235107422" />
+        <DataPoint XValue="4550000000" YValues="-88.8195648193359" />
+        <DataPoint XValue="4575000000" YValues="-83.4661560058594" />
+        <DataPoint XValue="4600000000" YValues="-88.3445892333984" />
+        <DataPoint XValue="4625000000" YValues="-82.8503723144531" />
+        <DataPoint XValue="4650000000" YValues="-91.6061477661133" />
+        <DataPoint XValue="4675000000" YValues="-92.3293762207031" />
+        <DataPoint XValue="4700000000" YValues="-85.6164932250977" />
+        <DataPoint XValue="4725000000" YValues="-84.3027954101563" />
+        <DataPoint XValue="4750000000" YValues="-84.7469940185547" />
+        <DataPoint XValue="4775000000" YValues="-93.6562652587891" />
+        <DataPoint XValue="4800000000" YValues="-94.6003570556641" />
+        <DataPoint XValue="4825000000" YValues="-86.5622634887695" />
+        <DataPoint XValue="4850000000" YValues="-82.7765960693359" />
+        <DataPoint XValue="4875000000" YValues="-99.4281311035156" />
+        <DataPoint XValue="4900000000" YValues="-90.2431411743164" />
+        <DataPoint XValue="4925000000" YValues="-83.2143478393555" />
+        <DataPoint XValue="4950000000" YValues="-89.1391830444336" />
+        <DataPoint XValue="4975000000" YValues="-90.1213226318359" />
+        <DataPoint XValue="5000000000" YValues="-94.8317413330078" />
+        <DataPoint XValue="5025000000" YValues="-95.9620819091797" />
+        <DataPoint XValue="5050000000" YValues="-94.454231262207" />
+        <DataPoint XValue="5075000000" YValues="-100.100746154785" />
+        <DataPoint XValue="5100000000" YValues="-81.1753845214844" />
+        <DataPoint XValue="5125000000" YValues="-82.0296859741211" />
+        <DataPoint XValue="5150000000" YValues="-91.0645751953125" />
+        <DataPoint XValue="5175000000" YValues="-85.9273986816406" />
+        <DataPoint XValue="5200000000" YValues="-86.0502548217773" />
+        <DataPoint XValue="5225000000" YValues="-98.0037994384766" />
+        <DataPoint XValue="5250000000" YValues="-82.1015167236328" />
+        <DataPoint XValue="5275000000" YValues="-84.8471984863281" />
+        <DataPoint XValue="5300000000" YValues="-90.4285049438477" />
+        <DataPoint XValue="5325000000" YValues="-92.5619354248047" />
+        <DataPoint XValue="5350000000" YValues="-93.3980712890625" />
+        <DataPoint XValue="5375000000" YValues="-95.5628128051758" />
+        <DataPoint XValue="5400000000" YValues="-88.1820983886719" />
+        <DataPoint XValue="5425000000" YValues="-86.109016418457" />
+        <DataPoint XValue="5450000000" YValues="-82.489860534668" />
+        <DataPoint XValue="5475000000" YValues="-88.4884185791016" />
+        <DataPoint XValue="5500000000" YValues="-84.2320175170898" />
+        <DataPoint XValue="5525000000" YValues="-88.5059814453125" />
+        <DataPoint XValue="5550000000" YValues="-90.0847244262695" />
+        <DataPoint XValue="5575000000" YValues="-78.9754638671875" />
+        <DataPoint XValue="5600000000" YValues="-83.3182220458984" />
+        <DataPoint XValue="5625000000" YValues="-86.8168563842773" />
+        <DataPoint XValue="5650000000" YValues="-84.005729675293" />
+        <DataPoint XValue="5675000000" YValues="-79.3042831420898" />
+        <DataPoint XValue="5700000000" YValues="-82.9997100830078" />
+        <DataPoint XValue="5725000000" YValues="-80.9126968383789" />
+        <DataPoint XValue="5750000000" YValues="-81.8703842163086" />
+        <DataPoint XValue="5775000000" YValues="-78.753044128418" />
+        <DataPoint XValue="5800000000" YValues="-78.5395202636719" />
+        <DataPoint XValue="5825000000" YValues="-81.6476364135742" />
+        <DataPoint XValue="5850000000" YValues="-78.3847122192383" />
+        <DataPoint XValue="5875000000" YValues="-85.6180114746094" />
+        <DataPoint XValue="5900000000" YValues="-84.6728897094727" />
+        <DataPoint XValue="5925000000" YValues="-81.1815795898438" />
+        <DataPoint XValue="5950000000" YValues="-81.3975372314453" />
+        <DataPoint XValue="5975000000" YValues="-79.8758697509766" />
+        <DataPoint XValue="6000000000" YValues="-86.5471725463867" />
+      </Points>
+    </Series>
+    <Series Name="Mr3" Legend="Tr1" XValueType="Double" YValueType="Double" ChartType="Point" ChartArea="ChartArea3" Color="Blue" LabelForeColor="Blue" MarkerStyle="Triangle" MarkerColor="Transparent" MarkerBorderColor="Blue" IsVisibleInLegend="False" LabelBorderColor="Blue" LabelBorderWidth="0">
+      <Points>
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" MarkerSize="6" LabelBorderWidth="1" LabelForeColor="Blue" Label="1" />
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-88.1667785644531" MarkerSize="0" LabelBorderWidth="0" Label="" />
+      </Points>
+      <SmartLabelStyle Enabled="False" />
+    </Series>
+    <Series Name="Tr4" Legend="Tr4" XValueType="Double" YValueType="Double" ChartType="Line" ChartArea="ChartArea4" Color="Green" LabelForeColor="Green" LegendText="S22 LogM">
+      <Points>
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" />
+        <DataPoint XValue="1025000000" YValues="-0.0146572673693299" />
+        <DataPoint XValue="1050000000" YValues="-0.00992047041654587" />
+        <DataPoint XValue="1075000000" YValues="-0.0175727307796478" />
+        <DataPoint XValue="1100000000" YValues="-0.0111369509249926" />
+        <DataPoint XValue="1125000000" YValues="-0.0108657553792" />
+        <DataPoint XValue="1150000000" YValues="-0.0174669474363327" />
+        <DataPoint XValue="1175000000" YValues="-0.0191470254212618" />
+        <DataPoint XValue="1200000000" YValues="-0.0108164492994547" />
+        <DataPoint XValue="1225000000" YValues="-0.0166961438953877" />
+        <DataPoint XValue="1250000000" YValues="-0.0113627417013049" />
+        <DataPoint XValue="1275000000" YValues="-0.0108291655778885" />
+        <DataPoint XValue="1300000000" YValues="-0.0110694747418165" />
+        <DataPoint XValue="1325000000" YValues="-0.0129514047876" />
+        <DataPoint XValue="1350000000" YValues="-0.00772476708516479" />
+        <DataPoint XValue="1375000000" YValues="-0.0179179031401873" />
+        <DataPoint XValue="1400000000" YValues="-0.0110136773437262" />
+        <DataPoint XValue="1425000000" YValues="-9.99209878500551E-05" />
+        <DataPoint XValue="1450000000" YValues="-0.00970435235649347" />
+        <DataPoint XValue="1475000000" YValues="-0.015421474352479" />
+        <DataPoint XValue="1500000000" YValues="-0.0185074638575315" />
+        <DataPoint XValue="1525000000" YValues="-0.0262751467525959" />
+        <DataPoint XValue="1550000000" YValues="-0.0162741579115391" />
+        <DataPoint XValue="1575000000" YValues="-0.0122198201715946" />
+        <DataPoint XValue="1600000000" YValues="-0.0224503241479397" />
+        <DataPoint XValue="1625000000" YValues="-0.0266994088888168" />
+        <DataPoint XValue="1650000000" YValues="-0.0199619513005018" />
+        <DataPoint XValue="1675000000" YValues="-0.0256147440522909" />
+        <DataPoint XValue="1700000000" YValues="-0.0262186322361231" />
+        <DataPoint XValue="1725000000" YValues="-0.0226605720818043" />
+        <DataPoint XValue="1750000000" YValues="-0.0283111482858658" />
+        <DataPoint XValue="1775000000" YValues="-0.0280550327152014" />
+        <DataPoint XValue="1800000000" YValues="-0.0328734777867794" />
+        <DataPoint XValue="1825000000" YValues="-0.0216156803071499" />
+        <DataPoint XValue="1850000000" YValues="-0.0333518572151661" />
+        <DataPoint XValue="1875000000" YValues="-0.0243286043405533" />
+        <DataPoint XValue="1900000000" YValues="-0.0270117074251175" />
+        <DataPoint XValue="1925000000" YValues="-0.0343779250979424" />
+        <DataPoint XValue="1950000000" YValues="-0.0224578715860844" />
+        <DataPoint XValue="1975000000" YValues="-0.0236632935702801" />
+        <DataPoint XValue="2000000000" YValues="-0.0279677547514439" />
+        <DataPoint XValue="2025000000" YValues="-0.0214080847799778" />
+        <DataPoint XValue="2050000000" YValues="-0.0228742137551308" />
+        <DataPoint XValue="2075000000" YValues="-0.0364328697323799" />
+        <DataPoint XValue="2100000000" YValues="-0.0247466899454594" />
+        <DataPoint XValue="2125000000" YValues="-0.0279073119163513" />
+        <DataPoint XValue="2150000000" YValues="-0.0322201550006866" />
+        <DataPoint XValue="2175000000" YValues="-0.0339114293456078" />
+        <DataPoint XValue="2200000000" YValues="-0.0279325824230909" />
+        <DataPoint XValue="2225000000" YValues="-0.0349501520395279" />
+        <DataPoint XValue="2250000000" YValues="-0.0401642173528671" />
+        <DataPoint XValue="2275000000" YValues="-0.0318928807973862" />
+        <DataPoint XValue="2300000000" YValues="-0.0397783480584621" />
+        <DataPoint XValue="2325000000" YValues="-0.0449545346200466" />
+        <DataPoint XValue="2350000000" YValues="-0.0342482477426529" />
+        <DataPoint XValue="2375000000" YValues="-0.0438035950064659" />
+        <DataPoint XValue="2400000000" YValues="-0.0437586195766926" />
+        <DataPoint XValue="2425000000" YValues="-0.040311049669981" />
+        <DataPoint XValue="2450000000" YValues="-0.0490859001874924" />
+        <DataPoint XValue="2475000000" YValues="-0.0446529723703861" />
+        <DataPoint XValue="2500000000" YValues="-0.0409629754722118" />
+        <DataPoint XValue="2525000000" YValues="-0.0378766618669033" />
+        <DataPoint XValue="2550000000" YValues="-0.0568576343357563" />
+        <DataPoint XValue="2575000000" YValues="-0.0395168513059616" />
+        <DataPoint XValue="2600000000" YValues="-0.0457688271999359" />
+        <DataPoint XValue="2625000000" YValues="-0.0490557923913002" />
+        <DataPoint XValue="2650000000" YValues="-0.0486358851194382" />
+        <DataPoint XValue="2675000000" YValues="-0.0462991297245026" />
+        <DataPoint XValue="2700000000" YValues="-0.0550454556941986" />
+        <DataPoint XValue="2725000000" YValues="-0.0456432588398457" />
+        <DataPoint XValue="2750000000" YValues="-0.0445983149111271" />
+        <DataPoint XValue="2775000000" YValues="-0.05768071860075" />
+        <DataPoint XValue="2800000000" YValues="-0.0520638711750507" />
+        <DataPoint XValue="2825000000" YValues="-0.0466164983808994" />
+        <DataPoint XValue="2850000000" YValues="-0.0468983091413975" />
+        <DataPoint XValue="2875000000" YValues="-0.0642457902431488" />
+        <DataPoint XValue="2900000000" YValues="-0.05456468090415" />
+        <DataPoint XValue="2925000000" YValues="-0.0696637779474258" />
+        <DataPoint XValue="2950000000" YValues="-0.0610326379537582" />
+        <DataPoint XValue="2975000000" YValues="-0.0532489717006683" />
+        <DataPoint XValue="3000000000" YValues="-0.0716968029737473" />
+        <DataPoint XValue="3025000000" YValues="-0.0585742741823196" />
+        <DataPoint XValue="3050000000" YValues="-0.0519011840224266" />
+        <DataPoint XValue="3075000000" YValues="-0.0723089873790741" />
+        <DataPoint XValue="3100000000" YValues="-0.06544079631567" />
+        <DataPoint XValue="3125000000" YValues="-0.0573772229254246" />
+        <DataPoint XValue="3150000000" YValues="-0.0626960396766663" />
+        <DataPoint XValue="3175000000" YValues="-0.0708423852920532" />
+        <DataPoint XValue="3200000000" YValues="-0.0530223026871681" />
+        <DataPoint XValue="3225000000" YValues="-0.0666429698467255" />
+        <DataPoint XValue="3250000000" YValues="-0.0761756151914597" />
+        <DataPoint XValue="3275000000" YValues="-0.0495490506291389" />
+        <DataPoint XValue="3300000000" YValues="-0.0753843113780022" />
+        <DataPoint XValue="3325000000" YValues="-0.082129493355751" />
+        <DataPoint XValue="3350000000" YValues="-0.0636027082800865" />
+        <DataPoint XValue="3375000000" YValues="-0.0743008553981781" />
+        <DataPoint XValue="3400000000" YValues="-0.0898692011833191" />
+        <DataPoint XValue="3425000000" YValues="-0.0749829262495041" />
+        <DataPoint XValue="3450000000" YValues="-0.0801263749599457" />
+        <DataPoint XValue="3475000000" YValues="-0.0884928181767464" />
+        <DataPoint XValue="3500000000" YValues="-0.0634479969739914" />
+        <DataPoint XValue="3525000000" YValues="-0.0656765252351761" />
+        <DataPoint XValue="3550000000" YValues="-0.100321039557457" />
+        <DataPoint XValue="3575000000" YValues="-0.0630876272916794" />
+        <DataPoint XValue="3600000000" YValues="-0.0808956027030945" />
+        <DataPoint XValue="3625000000" YValues="-0.0968521162867546" />
+        <DataPoint XValue="3650000000" YValues="-0.0754678100347519" />
+        <DataPoint XValue="3675000000" YValues="-0.0851315334439278" />
+        <DataPoint XValue="3700000000" YValues="-0.110504671931267" />
+        <DataPoint XValue="3725000000" YValues="-0.0753395333886147" />
+        <DataPoint XValue="3750000000" YValues="-0.0881721079349518" />
+        <DataPoint XValue="3775000000" YValues="-0.106850385665894" />
+        <DataPoint XValue="3800000000" YValues="-0.0917409062385559" />
+        <DataPoint XValue="3825000000" YValues="-0.0899831056594849" />
+        <DataPoint XValue="3850000000" YValues="-0.101404920220375" />
+        <DataPoint XValue="3875000000" YValues="-0.10292349755764" />
+        <DataPoint XValue="3900000000" YValues="-0.075730949640274" />
+        <DataPoint XValue="3925000000" YValues="-0.113700985908508" />
+        <DataPoint XValue="3950000000" YValues="-0.10021984577179" />
+        <DataPoint XValue="3975000000" YValues="-0.0799905881285667" />
+        <DataPoint XValue="4000000000" YValues="-0.118862062692642" />
+        <DataPoint XValue="4025000000" YValues="-0.101851686835289" />
+        <DataPoint XValue="4050000000" YValues="-0.0886053666472435" />
+        <DataPoint XValue="4075000000" YValues="-0.119780004024506" />
+        <DataPoint XValue="4100000000" YValues="-0.113943070173264" />
+        <DataPoint XValue="4125000000" YValues="-0.079804964363575" />
+        <DataPoint XValue="4150000000" YValues="-0.124793007969856" />
+        <DataPoint XValue="4175000000" YValues="-0.115301750600338" />
+        <DataPoint XValue="4200000000" YValues="-0.0920116528868675" />
+        <DataPoint XValue="4225000000" YValues="-0.115081652998924" />
+        <DataPoint XValue="4250000000" YValues="-0.129140794277191" />
+        <DataPoint XValue="4275000000" YValues="-0.0942136272788048" />
+        <DataPoint XValue="4300000000" YValues="-0.113019451498985" />
+        <DataPoint XValue="4325000000" YValues="-0.135089784860611" />
+        <DataPoint XValue="4350000000" YValues="-0.0909208580851555" />
+        <DataPoint XValue="4375000000" YValues="-0.110481046140194" />
+        <DataPoint XValue="4400000000" YValues="-0.139858245849609" />
+        <DataPoint XValue="4425000000" YValues="-0.111454859375954" />
+        <DataPoint XValue="4450000000" YValues="-0.110717639327049" />
+        <DataPoint XValue="4475000000" YValues="-0.17146247625351" />
+        <DataPoint XValue="4500000000" YValues="-0.103956319391727" />
+        <DataPoint XValue="4525000000" YValues="-0.11148326843977" />
+        <DataPoint XValue="4550000000" YValues="-0.161695495247841" />
+        <DataPoint XValue="4575000000" YValues="-0.114042989909649" />
+        <DataPoint XValue="4600000000" YValues="-0.110765174031258" />
+        <DataPoint XValue="4625000000" YValues="-0.159484297037125" />
+        <DataPoint XValue="4650000000" YValues="-0.106142871081829" />
+        <DataPoint XValue="4675000000" YValues="-0.117202281951904" />
+        <DataPoint XValue="4700000000" YValues="-0.166311979293823" />
+        <DataPoint XValue="4725000000" YValues="-0.119149670004845" />
+        <DataPoint XValue="4750000000" YValues="-0.120400331914425" />
+        <DataPoint XValue="4775000000" YValues="-0.169197842478752" />
+        <DataPoint XValue="4800000000" YValues="-0.12352828681469" />
+        <DataPoint XValue="4825000000" YValues="-0.123585820198059" />
+        <DataPoint XValue="4850000000" YValues="-0.163259223103523" />
+        <DataPoint XValue="4875000000" YValues="-0.135502383112907" />
+        <DataPoint XValue="4900000000" YValues="-0.105210833251476" />
+        <DataPoint XValue="4925000000" YValues="-0.173174381256104" />
+        <DataPoint XValue="4950000000" YValues="-0.149889141321182" />
+        <DataPoint XValue="4975000000" YValues="-0.105272620916367" />
+        <DataPoint XValue="5000000000" YValues="-0.17199918627739" />
+        <DataPoint XValue="5025000000" YValues="-0.156280159950256" />
+        <DataPoint XValue="5050000000" YValues="-0.102793872356415" />
+        <DataPoint XValue="5075000000" YValues="-0.170640960335732" />
+        <DataPoint XValue="5100000000" YValues="-0.162228047847748" />
+        <DataPoint XValue="5125000000" YValues="-0.11504177749157" />
+        <DataPoint XValue="5150000000" YValues="-0.176272392272949" />
+        <DataPoint XValue="5175000000" YValues="-0.16438552737236" />
+        <DataPoint XValue="5200000000" YValues="-0.108310088515282" />
+        <DataPoint XValue="5225000000" YValues="-0.183319613337517" />
+        <DataPoint XValue="5250000000" YValues="-0.180268913507462" />
+        <DataPoint XValue="5275000000" YValues="-0.122267939150333" />
+        <DataPoint XValue="5300000000" YValues="-0.174563318490982" />
+        <DataPoint XValue="5325000000" YValues="-0.173756316304207" />
+        <DataPoint XValue="5350000000" YValues="-0.118394389748573" />
+        <DataPoint XValue="5375000000" YValues="-0.173853576183319" />
+        <DataPoint XValue="5400000000" YValues="-0.197809815406799" />
+        <DataPoint XValue="5425000000" YValues="-0.115778930485249" />
+        <DataPoint XValue="5450000000" YValues="-0.169077545404434" />
+        <DataPoint XValue="5475000000" YValues="-0.20305398106575" />
+        <DataPoint XValue="5500000000" YValues="-0.126443967223167" />
+        <DataPoint XValue="5525000000" YValues="-0.158271715044975" />
+        <DataPoint XValue="5550000000" YValues="-0.252199709415436" />
+        <DataPoint XValue="5575000000" YValues="-0.19149811565876" />
+        <DataPoint XValue="5600000000" YValues="-0.200072079896927" />
+        <DataPoint XValue="5625000000" YValues="-0.240250110626221" />
+        <DataPoint XValue="5650000000" YValues="-0.162209242582321" />
+        <DataPoint XValue="5675000000" YValues="-0.189016446471214" />
+        <DataPoint XValue="5700000000" YValues="-0.242825299501419" />
+        <DataPoint XValue="5725000000" YValues="-0.147015258669853" />
+        <DataPoint XValue="5750000000" YValues="-0.167419984936714" />
+        <DataPoint XValue="5775000000" YValues="-0.213955909013748" />
+        <DataPoint XValue="5800000000" YValues="-0.15469291806221" />
+        <DataPoint XValue="5825000000" YValues="-0.145976155996323" />
+        <DataPoint XValue="5850000000" YValues="-0.204277217388153" />
+        <DataPoint XValue="5875000000" YValues="-0.17950913310051" />
+        <DataPoint XValue="5900000000" YValues="-0.150416225194931" />
+        <DataPoint XValue="5925000000" YValues="-0.229307726025581" />
+        <DataPoint XValue="5950000000" YValues="-0.180471554398537" />
+        <DataPoint XValue="5975000000" YValues="-0.153821468353271" />
+        <DataPoint XValue="6000000000" YValues="-0.227488994598389" />
+      </Points>
+    </Series>
+    <Series Name="Mr4" Legend="Tr1" XValueType="Double" YValueType="Double" ChartType="Point" ChartArea="ChartArea4" Color="Green" LabelForeColor="Green" MarkerStyle="Triangle" MarkerColor="Transparent" MarkerBorderColor="Green" IsVisibleInLegend="False" LabelBorderColor="Green" LabelBorderWidth="0">
+      <Points>
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" MarkerSize="6" LabelBorderWidth="1" LabelForeColor="Green" Label="1" />
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" MarkerSize="0" LabelBorderWidth="0" Label="" />
+        <DataPoint XValue="1000000000" YValues="-0.0193742737174034" MarkerSize="0" LabelBorderWidth="0" Label="" />
+      </Points>
+      <SmartLabelStyle Enabled="False" />
+    </Series>
+  </Series>
+  <Legends>
+    <Legend Name="Tr1" DockedToChartArea="ChartArea1" IsDockedInsideChartArea="False" LegendStyle="Row" BackColor="Transparent" BorderColor="Transparent" BorderWidth="0" ForeColor="Red" LegendItemOrder="SameAsSeriesOrder">
+      <Position Width="12" Height="4" Auto="False" />
+      <CellColumns>
+        <LegendCellColumn Name="LegendCellColumn1" Text="" />
+        <LegendCellColumn Name="LegendCellColumn2" Text="#SERIESNAME" ForeColor="Red" BackColor="Transparent" />
+        <LegendCellColumn Name="LegendCellColumn3" />
+      </CellColumns>
+    </Legend>
+    <Legend Name="ML1" DockedToChartArea="ChartArea1" IsTextAutoFit="False" AutoFitMinFontSize="16" TableStyle="Wide" BackColor="Transparent" Font="Microsoft Sans Serif, 9pt" ForeColor="Red" Docking="Left">
+      <CustomItems>
+        <LegendItem Name="M1" ImageStyle="Marker" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" Text="&gt;" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M1" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="1.05 GHz" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" Text="1028.7192 " CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M2" ImageStyle="Marker" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M2" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="6 GHz" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" Text="104.2606 " CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M3" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M3" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M4" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M4" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M5" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M5" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M6" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M6" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M7" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M7" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M8" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M8" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M9" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M9" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M10" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M10" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M11" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M11" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M12" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="△" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+      </CustomItems>
+    </Legend>
+    <Legend Name="Analysis1" DockedToChartArea="ChartArea1" BackColor="Transparent" ForeColor="Red">
+      <CustomItems>
+        <LegendItem Name="LimitTest" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" Text="Limit Test Result" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="RippleTest" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" Text="Ripl1: " ForeColor="Red" />
+          </Cells>
+        </LegendItem>
+      </CustomItems>
+    </Legend>
+    <Legend Name="Tr2" DockedToChartArea="ChartArea2" IsDockedInsideChartArea="False" LegendStyle="Row" BackColor="Transparent" BorderColor="Transparent" BorderWidth="0" ForeColor="Yellow" LegendItemOrder="SameAsSeriesOrder">
+      <Position Width="12" X="49" Height="4" Auto="False" />
+      <CellColumns>
+        <LegendCellColumn Name="LegendCellColumn1" Text="" />
+        <LegendCellColumn Name="LegendCellColumn2" Text="#SERIESNAME" ForeColor="ControlText" BackColor="Yellow" />
+        <LegendCellColumn Name="LegendCellColumn3" />
+      </CellColumns>
+    </Legend>
+    <Legend Name="ML2" DockedToChartArea="ChartArea2" IsTextAutoFit="False" AutoFitMinFontSize="16" TableStyle="Wide" BackColor="Transparent" Font="Microsoft Sans Serif, 9pt" ForeColor="Yellow" Docking="Left">
+      <CustomItems>
+        <LegendItem Name="M1" ImageStyle="Marker" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" Text="&gt;" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M1" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="4.3 GHz" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" Text="-82.5869 dB" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M2" ImageStyle="Marker" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M2" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="3.775 GHz" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" Text="-86.9891 dB" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M3" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M3" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M4" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M4" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M5" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M5" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M6" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M6" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M7" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M7" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M8" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M8" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M9" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M9" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M10" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M10" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M11" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M11" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M12" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="△" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+      </CustomItems>
+    </Legend>
+    <Legend Name="Analysis2" DockedToChartArea="ChartArea2" BackColor="Transparent" ForeColor="Yellow">
+      <CustomItems>
+        <LegendItem Name="LimitTest" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" Text="Limit Test Result" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="RippleTest" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" Text="Ripl2: " ForeColor="Yellow" />
+          </Cells>
+        </LegendItem>
+      </CustomItems>
+    </Legend>
+    <Legend Name="Tr3" DockedToChartArea="ChartArea3" IsDockedInsideChartArea="False" LegendStyle="Row" BackColor="Transparent" BorderColor="Transparent" BorderWidth="0" ForeColor="Blue" LegendItemOrder="SameAsSeriesOrder">
+      <Position Width="12" Y="50" Height="4" Auto="False" />
+      <CellColumns>
+        <LegendCellColumn Name="LegendCellColumn1" Text="" />
+        <LegendCellColumn Name="LegendCellColumn2" Text="#SERIESNAME" ForeColor="Blue" BackColor="Transparent" />
+        <LegendCellColumn Name="LegendCellColumn3" />
+      </CellColumns>
+    </Legend>
+    <Legend Name="ML3" DockedToChartArea="ChartArea3" IsTextAutoFit="False" AutoFitMinFontSize="16" TableStyle="Wide" BackColor="Transparent" Font="Microsoft Sans Serif, 9pt" ForeColor="Blue" Docking="Left">
+      <CustomItems>
+        <LegendItem Name="M1" ImageStyle="Marker" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" Text="&gt;" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M1" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="1 GHz" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" Text="-91.7910 dB" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M2" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M2" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M3" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M3" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M4" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M4" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M5" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M5" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M6" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M6" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M7" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M7" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M8" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M8" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M9" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M9" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M10" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M10" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M11" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M11" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M12" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="△" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+      </CustomItems>
+    </Legend>
+    <Legend Name="Analysis3" DockedToChartArea="ChartArea3" BackColor="Transparent" ForeColor="Blue">
+      <CustomItems>
+        <LegendItem Name="LimitTest" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" Text="Limit Test Result" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="RippleTest" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" Text="Ripl3: " ForeColor="Blue" />
+          </Cells>
+        </LegendItem>
+      </CustomItems>
+    </Legend>
+    <Legend Name="Tr4" DockedToChartArea="ChartArea4" IsDockedInsideChartArea="False" LegendStyle="Row" BackColor="Transparent" BorderColor="Transparent" BorderWidth="0" ForeColor="Green" LegendItemOrder="SameAsSeriesOrder">
+      <Position Width="12" X="49" Y="50" Height="4" Auto="False" />
+      <CellColumns>
+        <LegendCellColumn Name="LegendCellColumn1" Text="" />
+        <LegendCellColumn Name="LegendCellColumn2" Text="#SERIESNAME" ForeColor="Green" BackColor="Transparent" />
+        <LegendCellColumn Name="LegendCellColumn3" />
+      </CellColumns>
+    </Legend>
+    <Legend Name="ML4" DockedToChartArea="ChartArea4" IsTextAutoFit="False" AutoFitMinFontSize="16" TableStyle="Wide" BackColor="Transparent" Font="Microsoft Sans Serif, 9pt" ForeColor="Green" Docking="Left">
+      <CustomItems>
+        <LegendItem Name="M1" ImageStyle="Marker" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" Text="&gt;" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M1" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="1 GHz" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" Text="-0.0126 dB" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M2" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M2" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M3" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M3" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M4" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M4" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M5" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M5" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M6" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M6" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M7" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M7" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M8" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M8" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M9" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M9" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M10" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M10" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M11" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="M11" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="M12" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" />
+            <LegendCell Name="LegendCell2" Alignment="TopLeft" Text="△" />
+            <LegendCell Name="LegendCell3" Alignment="TopLeft" Text="Freq =" />
+            <LegendCell Name="LegendCell4" Alignment="TopLeft" CellSpan="4" />
+            <LegendCell Name="LegendCell5" Alignment="TopLeft" CellSpan="3" />
+          </Cells>
+        </LegendItem>
+      </CustomItems>
+    </Legend>
+    <Legend Name="Analysis4" DockedToChartArea="ChartArea4" BackColor="Transparent" ForeColor="Green">
+      <CustomItems>
+        <LegendItem Name="LimitTest" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" Text="Limit Test Result" />
+          </Cells>
+        </LegendItem>
+        <LegendItem Name="RippleTest" ImageStyle="Marker" Enabled="False" MarkerStyle="Diamond">
+          <Cells>
+            <LegendCell Name="LegendCell1" Alignment="TopLeft" Text="Ripl4: " ForeColor="Green" />
+          </Cells>
+        </LegendItem>
+      </CustomItems>
+    </Legend>
+  </Legends>
+  <ChartAreas>
+    <ChartArea BackColor="Black" BorderColor="151, 152, 151" BorderDashStyle="Solid" Name="ChartArea1">
+      <AxisY LabelAutoFitStyle="DecreaseFont" IsMarksNextToAxis="False" LineColor="151, 152, 151" IntervalAutoMode="VariableCount" IsStartedFromZero="False" IsMarginVisible="False" Maximum="1.5086874961853027" Minimum="0.50007516145706177">
+        <MajorGrid LineColor="32, 32, 32" />
+        <LabelStyle ForeColor="Gray" Format="{0:0.000}" />
+      </AxisY>
+      <AxisX LineColor="151, 152, 151" IsMarginVisible="False">
+        <MajorGrid LineColor="32, 32, 32" Interval="Auto" />
+      </AxisX>
+      <Position Width="47" Y="4" Height="44" Auto="False" />
+      <InnerPlotPosition Width="92" X="8" Y="1" Height="99" Auto="False" />
+    </ChartArea>
+    <ChartArea BackColor="Black" BorderColor="151, 152, 151" BorderDashStyle="Solid" Name="ChartArea2">
+      <AxisY LabelAutoFitStyle="DecreaseFont" IsMarksNextToAxis="False" LineColor="151, 152, 151" IntervalAutoMode="VariableCount" IsStartedFromZero="False" IsMarginVisible="False" Maximum="0.028647048398852348" Minimum="-0.0076685710810124874">
+        <MajorGrid LineColor="32, 32, 32" />
+        <LabelStyle ForeColor="Gray" Format="{0:0.000}" />
+      </AxisY>
+      <AxisX LineColor="151, 152, 151" IsMarginVisible="False">
+        <MajorGrid LineColor="32, 32, 32" />
+      </AxisX>
+      <Position Width="47" X="49" Y="4" Height="44" Auto="False" />
+      <InnerPlotPosition Width="92" X="8" Y="1" Height="99" Auto="False" />
+    </ChartArea>
+    <ChartArea BackColor="Black" BorderColor="151, 152, 151" BorderDashStyle="Solid" Name="ChartArea3">
+      <AxisY LabelAutoFitStyle="DecreaseFont" IsMarksNextToAxis="False" LineColor="151, 152, 151" IntervalAutoMode="VariableCount" IsStartedFromZero="False" IsMarginVisible="False" Maximum="0.0049511392135173082" Minimum="-0.027620036154985428">
+        <MajorGrid LineColor="32, 32, 32" />
+        <LabelStyle ForeColor="Gray" Format="{0:0.000}" />
+      </AxisY>
+      <AxisX LineColor="151, 152, 151" IsMarginVisible="False">
+        <MajorGrid LineColor="32, 32, 32" />
+      </AxisX>
+      <Position Width="47" Y="54" Height="44" Auto="False" />
+      <InnerPlotPosition Width="92" X="8" Y="1" Height="99" Auto="False" />
+    </ChartArea>
+    <ChartArea BackColor="Black" BorderColor="151, 152, 151" BorderDashStyle="Solid" Name="ChartArea4">
+      <AxisY LabelAutoFitStyle="DecreaseFont" IsMarksNextToAxis="False" LineColor="151, 152, 151" IntervalAutoMode="VariableCount" IsStartedFromZero="False" IsMarginVisible="False" Maximum="-25.971141815185547" Minimum="-131.99055862426758">
+        <MajorGrid LineColor="32, 32, 32" />
+        <LabelStyle ForeColor="Gray" Format="{0:0.000}" />
+      </AxisY>
+      <AxisX LineColor="151, 152, 151" IsMarginVisible="False">
+        <MajorGrid LineColor="32, 32, 32" />
+      </AxisX>
+      <Position Width="47" X="49" Y="54" Height="44" Auto="False" />
+      <InnerPlotPosition Width="92" X="8" Y="1" Height="99" Auto="False" />
+    </ChartArea>
+  </ChartAreas>
+  <BorderSkin BackColor="Black" />
+</Chart>
